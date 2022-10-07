@@ -51,3 +51,28 @@ One trick to do tree problem is to think should we do some operations on the cur
 | 226. Invert Binary Tree | Easy | Time: O(n), Space: O(1) |
 | 655. Print Binary Tree | Meidum | Time: O(n), Space: O(logn * 2^logn) |
 | 897. Increasing Order Search Tree | Easy | Time: O(n), Space: O(1) |
+| 501. Find Mode in Binary Search Tree | Easy | Time: O(n), Space: O(1) |
+| 558. Logical OR of Two Binary Grids Represented as Quad-Trees | Medium | Time: O(n), Space: O(1) |
+| 662. Maximum Width of Binary Tree | Meidum | Time: O(n), Space: O(1) |
+| 742. Closest Leaf in a Binary Tree | Meidum | Time: O(n), Space: O(n) |
+| 863. All Nodes Distance K in Binary Tree | Meidum | Time: O(n), Space: O(n) |
+| 958. Check Completeness of a Binary Tree | Meidum | Time: O(n), Space: O(1) |
+| 1339. Maximum Product of Splitted Binary Tree | Meidum | Time: O(n), Space: O(1) |
+| 1104. Path In Zigzag Labelled Binary Tree | Meidum | Time: O(logn), Space: O(1) |
+| 1660. Correct a Binary Tree | Meidum | Time: O(n), Space: O(n) |
+| 1666. Change the Root of a Binary Tree | Meidum | Time: O(n), Space: O(1) |
+| 1932. Merge BSTs to Create Single BST | Hard | Time: O(n), Space: O(n) |
+| 2003. Smallest Missing Genetic Value in Each Subtree | Hard | Time: O(n), Space: O(n) |
+| 2277. Closest Node to Path in Tree | Hard | Time: O(n), Space: O(n) |
+| 2313. Minimum Flips in Binary Tree to Get Result | Hard | Time: O(n^2), Space: O(n^2) |
+| 2322. Minimum Score After Removals on a Tree | Hard | Time: O(n^2), Space: O(n) |
+| 543. Diameter of Binary Tree | Easy | Time: O(n), Space: O(1) |
+| 124. Binary Tree Maximum Path Sum | Hard | Time: O(n), Space: O(1) |
+| 687. Longest Univalue Path | Medium | Time: O(n), Space: O(1) |
+| 1522. Diameter of N-Ary Tree | Meidum | Time: O(n), Space: O(1) |
+| 2049. Count Nodes With the Highest Score | Meidum | Time: O(n), Space: O(1) |
+| 2246. Longest Path With Different Adjacent Characters | Hard | Time: O(n), Space: O(1) |
+| 297. Serialize and Deserialize Binary Tree | Hard | Time: O(n), Space: O(n) |
+| 652. Find Duplicate Subtrees | Meidum | Time: O(n), Space: O(n) |
+| 1948. Delete Duplicate Folders in System | Hard | Time: O(n), Space: O(n) |
+
