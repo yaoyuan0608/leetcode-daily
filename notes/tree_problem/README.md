@@ -1,27 +1,3 @@
-### Non-overlapping problem (meeting room problem)
-For these non-overlapping/overlapping problem, the key point is to find out the relation between the start point and end point of each interval. Then we can choose whether to delete/merge/oeprate iteratively.
-
-| Question | Difficulty | Complexity |
-| :---: | :---: | :---: |
-| 452. Minimum Number of Arrows to Burst Balloons | Medium | Time: O(nlogn), Space: O(n) |
-| 435. Non-overlapping Intervals | Medium | Time: O(nlogn), Space: O(n) |
-| 56. Merge Intervals | Medium | Time: O(nlogn), Space: O(n) |
-| 252. Meeting Rooms | Easy | Time: O(nlogn), Space: O(1) |
-| 253. Meeting Rooms II | Medium | Time: O(nlogn), Space: O(n) |
-| 1094. Car Pooling | Medium | Time: O(nlogn), Space: O(n) |
-
-### Monotonic problem
-Monotonic technique is used for "next greater element problem". The order of the input array is fixed, when we scan the array, if a smaller/bigger element take the same effort for the previous elements, we can consider to use monotonic problem.
-| Question | Difficulty | Complexity |
-| :---: | :---: | :---: |
-| 503. Next Greater Element II | Medium | Time: O(n), Space: O(n) |
-| 739. Daily Temperatures | Medium | Time: O(n), Space: O(n) |
-| 1762. Buildings With an Ocean View | Medium | Time: O(n), Space: O(n) |
-| 456. 132 Pattern | Medium | Time: O(n), Space: O(n) |
-| 42. Trapping Rain Water | Hard | Time: O(n), Space: O(n) |
-| 84. Largest Rectangle in Histogram | Hard | Time: O(n), Space: O(n) |
-| 1944. Number of Visible People in a Queue | Hard | Time: O(n), Space: O(n) |
-
 ### Tree problem (general)
 One trick to do tree problem is to think should we do some operations on the current node before/after the iteration, so to use the method of preorder traversal or postorder traversal.
 | Question | Difficulty | Complexity |
@@ -75,4 +51,12 @@ One trick to do tree problem is to think should we do some operations on the cur
 | 297. Serialize and Deserialize Binary Tree | Hard | Time: O(n), Space: O(n) |
 | 652. Find Duplicate Subtrees | Meidum | Time: O(n), Space: O(n) |
 | 1948. Delete Duplicate Folders in System | Hard | Time: O(n), Space: O(n) |
-
+| 105. Construct Binary Tree from Preorder and Inorder Traversal | Medium | Time: O(n), Space: O(n) |
+| 106. Construct Binary Tree from Inorder and Postorder Traversal | Medium | Time: O(n), Space: O(n) |
+| 331. Verify Preorder Serialization of a Binary Tree | Medium | Time: O(n), Space: O(1) |
+| 449. Serialize and Deserialize BST | Medium | Time: O(n), Space: O(n) |
+| 654. Maximum Binary Tree | Medium | Time: O(n), Space: O(n) |
+| 971. Flip Binary Tree To Match Preorder Traversal | Medium | Time: O(n), Space: O(1) |
+| 1028. Recover a Tree From Preorder Traversal | Hard | Time: O(n), Space: O(n) |
+| 1569. Number of Ways to Reorder Array to Get Same BST | Hard | Time: O(n), Space: O(1) |
+| 1902. Depth of BST Given Insertion Order | Medium | Time: O(nlogn), Space: O(n) |
