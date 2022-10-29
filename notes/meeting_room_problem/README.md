@@ -9,3 +9,4 @@ For these non-overlapping/overlapping problem, the key point is to find out the 
 | 252. Meeting Rooms | Easy | Time: O(nlogn), Space: O(1) |
 | 253. Meeting Rooms II | Medium | Time: O(nlogn), Space: O(n) |
 | 1094. Car Pooling | Medium | Time: O(nlogn), Space: O(n) |
+| 2406. Divide Intervals Into Minimum Number of Groups | Medium | Time: O(nlogn), Space: O(n) |

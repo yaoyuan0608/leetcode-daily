@@ -22,3 +22,19 @@
 | 310 | 2405. Optimal Partition of String | Medium | Time: O(n), Space: O(n) |
 | 310 | 2406. Divide Intervals Into Minimum Number of Groups | Medium | Time: O(n), Space: O(n) |
 | 310 | 2407. Longest Increasing Subsequence II | Hard | Time: O(n), Space: O(n) |
+| 309 | 2399. Check Distances Between Same Letters| Easy | Time: O(n), Space: O(n) |
+| 309 | 2400. Number of Ways to Reach a Position After Exactly k Steps | Medium | Time: O(n^2), Space: O(n^2) |
+| 309 | 2401. Longest Nice Subarray | Medium | Time: O(n), Space: O(1) |
+| 309 | 2402. Meeting Rooms III | Hard | Time: O(nlogn), Space: O(n) |
+| 305 | 2367. Number of Arithmetic Triplets | Easy | Time: O(n^2), Space: O(1) |
+| 305 | 2368. Reachable Nodes With Restrictions | Medium | Time: O(n), Space: O(n) |
+| 305 | 2369. Check if There is a Valid Partition For The Array | Medium | Time: O(n), Space: O(1) |
+| 305 | 2370. Longest Ideal Subsequence | Medium | Time: O(n^2), Space: O(n) |
+| bi-84 | 2363. Merge Similar Items | Easy | Time: O(nlogn), Space: O(n) |
+| bi-84 | 2364. Count Number of Bad Pairs | Medium | Time: O(n), Space: O(n) |
+| bi-84 | 2365. Task Scheduler II | Medium | Time: O(n), Space: O(n) |
+| bi-84 | 2366. Minimum Replacements to Sort the Array | Hard | Time: O(n), Space: O(1) |
+| 304 | 2357. Make Array Zero by Subtracting Equal Amounts | Easy | Time: O(n), Space: O(n) |
+| 304 | 2358. Maximum Number of Groups Entering a Competition | Medium | Time: O(nlogn), Space: O(n) |
+| 304 | 2359. Find Closest Node to Given Two Nodes | Medium | Time: O(n), Space: O(n) |
+| 304 | 2360. Longest Cycle in a Graph | Hard | Time: O(nlogn), Space: O(n) |
