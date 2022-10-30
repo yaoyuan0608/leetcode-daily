@@ -38,3 +38,11 @@
 | 304 | 2358. Maximum Number of Groups Entering a Competition | Medium | Time: O(nlogn), Space: O(n) |
 | 304 | 2359. Find Closest Node to Given Two Nodes | Medium | Time: O(n), Space: O(n) |
 | 304 | 2360. Longest Cycle in a Graph | Hard | Time: O(nlogn), Space: O(n) |
+| 303 | 2351. First Letter to Appear Twice | Easy | Time: O(n), Space: O(n) |
+| 303 | 2352. Equal Row and Column Pairs | Medium | Time: O(n^2), Space: O(1) |
+| 303 | 2353. Design a Food Rating System | Medium | Time: O(n), Space: O(n) |
+| 303 | 2354. Number of Excellent Pairs | Hard | Time: O(nlogn), Space: O(n) |
+| bi-83 | 2347. Best Poker Hand | Easy | Time: O(n), Space: O(n) |
+| bi-83 | 2348. Number of Zero-Filled Subarrays | Medium | Time: O(n), Space: O(1) |
+| bi-83 | 2349. Design a Number Container System | Medium | Time: O(n), Space: O(n) |
+| bi-83 | 2350. Shortest Impossible Sequence of Rolls | Hard | Time: O(n), Space: O(k) |
