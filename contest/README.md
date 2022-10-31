@@ -46,3 +46,15 @@
 | bi-83 | 2348. Number of Zero-Filled Subarrays | Medium | Time: O(n), Space: O(1) |
 | bi-83 | 2349. Design a Number Container System | Medium | Time: O(n), Space: O(n) |
 | bi-83 | 2350. Shortest Impossible Sequence of Rolls | Hard | Time: O(n), Space: O(k) |
+| 302 | 2341. Maximum Number of Pairs in Array | Easy | Time: O(nlogn), Space: O(1) |
+| 302 | 2342. Max Sum of a Pair With Equal Sum of Digits | Medium | Time: O(nlogn), Space: O(n) |
+| 302 | 2343. Query Kth Smallest Trimmed Number | Medium | Time: O(nlogn), Space: O(n) |
+| 302 | 2344. Minimum Deletions to Make Array Divisible | Hard | Time: O(nlogn), Space: O(1) |
+| 301 | 2335. Minimum Amount of Time to Fill Cups | Easy | Time: O(n), Space: O(1) |
+| 301 | 2336. Smallest Number in Infinite Set | Medium | Time: O(nlogn), Space: O(n) |
+| 301 | 2337. Move Pieces to Obtain a String | Medium | Time: O(n), Space: O(n) |
+| 301 | 2338. Count the Number of Ideal Arrays | Hard | Time: O(n^2), Space: O(n) |
+| 300 | 2325. Decode the Message | Easy | Time: O(n), Space: O(n) |
+| 300 | 2326. Spiral Matrix IV | Meidum | Time: O(n^2), Space: O(n^2) |
+| 300 | 2327. Number of People Aware of a Secret | Meidum | Time: O(n), Space: O(n) |
+| 300 | 2328. Number of Increasing Paths in a Grid | Hard | Time: O(n), Space: O(n) |
