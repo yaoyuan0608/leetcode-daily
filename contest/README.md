@@ -2,6 +2,18 @@
 
 | Number | Question | Difficulty | Complexity |
 | :---: | :---: | :---: | :---: |
+| 322 | 2490. Circular Sentence | Easy | Time: O(n), Space: O(1) |
+| 322 | 2491. Divide Players Into Teams of Equal Skill | Medium | Time: O(n), Space: O(1) |
+| 322 | 2492. Minimum Score of a Path Between Two Cities | Medium | Time: O(n), Space: O(n) |
+| 322 | 2493. Divide Nodes Into the Maximum Number of Groups | Hard | Time: O(n), Space: O(n) |
+| 321 | 2485. Find the Pivot Integer | Easy | Time: O(1), Space: O(1) |
+| 321 | 2486. Append Characters to String to Make Subsequence | Medium | Time: O(n), Space: O(1) |
+| 321 | 2487. Remove Nodes From Linked List | Medium | Time: O(n), Space: O(1) |
+| 321 | 2488. Count Subarrays With Median K | Hard | Time: O(n), Space: O(n) |
+| 320 | 2475. Number of Unequal Triplets in Array | Easy | Time: O(n), Space: O(n) |
+| 320 | 2476. Closest Nodes Queries in a Binary Search Tree | Medium | Time: O(nlogn), Space: O(n) |
+| 320 | 2477. Minimum Fuel Cost to Report to the Capital | Medium | Time: O(n), Space: O(n) |
+| 320 | 2478. Number of Beautiful Partitions | Hard | Time: O(n^2), Space: O(n) |
 | 319 | 2469. Convert the Temperature | Easy | Time: O(1), Space: O(1) |
 | 319 | 2470. Number of Subarrays With LCM Equal to K | Medium | Time: O(n^2), Space: O(1) |
 | 319 | 2471. Minimum Number of Operations to Sort a Binary Tree by Level | Medium | Time: O(nlogn), Space: O(n) |
