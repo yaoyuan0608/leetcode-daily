@@ -27,3 +27,16 @@ This technique can be used to solve "at most k" (constrains) problem, and we can
 | 992. Subarrays with K Different Integers | Hard | Time: O(n), Space: O(k) |
 | 1248. Count Number of Nice Subarrays | Medium | Time: O(n), Space: O(1) |
 | 2062. Count Vowel Substrings of a String | Easy | Time: O(n), Space: O(1) |
+
+```python
+def sliding_window(array):
+	l, r = 0, 0 # define the left and right boundary
+    res = 0
+    for r in range(len(array)):
+        # do something with array[r]
+        while break_the_requirement:
+            # do soemthing with array[l]
+            # l += 1
+        res = ... # update your result
+	return res
+```
