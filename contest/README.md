@@ -75,6 +75,8 @@
 | 300 | 2327. Number of People Aware of a Secret | Meidum | Time: O(n), Space: O(n) |
 | 300 | 2328. Number of Increasing Paths in a Grid | Hard | Time: O(n), Space: O(n) |
 
+| Number | Question | Difficulty | Complexity |
+| :---: | :---: | :---: | :---: |
 | bi-90 | 2451. Odd String Difference | Easy | Time: O(n), Space: O(n) |
 | bi-90 | 2452. Words Within Two Edits of Dictionary | Medium | Time: O(n^2), Space: O(n) |
 | bi-90 | 2453. Destroy Sequential Targets | Medium | Time: O(n), Space: O(n) |
